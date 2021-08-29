@@ -10,7 +10,7 @@ services:
   php:
     build:
       context: .
-      dockerfile: PHP.Dockerfile
+      dockerfile: Dockerfile
     volumes:
       - ./app:/app
   mysql:
