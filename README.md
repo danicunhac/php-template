@@ -9,20 +9,22 @@
 
 ## 🚀 Starting the project
 
-Clone the project and get inside it's folder
+1. Click on `Use this template` button up there or do the following
 
-```bash
-git clone https://github.com/danicunhac/php-template.git
+2. Clone the project and get inside it's folder
 
-cd php-template
+  ```bash
+  git clone https://github.com/danicunhac/php-template.git
 
-```
+  cd php-template
 
-Follow the steps below
+  ```
 
-```bash
-# Start the docker container
-$ docker-compose up
-```
+  Follow the steps below
+
+  ```bash
+  # Start the docker container
+  $ docker-compose up
+  ```
 
 Next, go to `127.0.0.1` and should see you php page running!
