@@ -28,3 +28,6 @@
   ```
 
 Next, go to `127.0.0.1` and should see you php page running!
+
+## 🐳 Container on Docker Hub
+https://hub.docker.com/r/danielcunhac/php-nginx-mariadb
